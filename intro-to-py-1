@@ -1,0 +1,60 @@
+# myVariable = "Hello Africa"
+#
+# print(myVariable)
+#
+# x = 10
+# y = 20
+# z = x + y
+#
+# print(type(myVariable))
+
+# x = str(6)
+# print(x)
+
+# Strings
+
+# myStr = "This is my single line string"
+#
+# multiLineStr = """This is a short story about myself.
+# I am David Enabs.
+# I love coding.
+# """
+#
+# print(myStr)
+# print(multiLineStr)
+
+# name = 'David'
+
+# print(name[0])
+# print(name[1])
+# print(name[2])
+# print(name[3])
+# print(name[4])
+
+# print(len(name))
+#
+# text = "This is the second python class we're having"
+# checker = 'David' not in text
+# print(checker)
+
+word = "Transformation "
+# print(word[2:5])
+# print(word[:5])
+# print(word[5:])
+# print(word[-1])
+# print(word[-5:-2])
+# print(word[-2:-5])
+#
+# print(word.upper())
+# print(word.lower())
+# print(word.strip())
+
+
+# print(word[2], word[5])
+# print(word[5])
+
+txt = "Hello world"
+result = txt.split(' ')
+print(result)
+print(result[0])
+print(result[1])
